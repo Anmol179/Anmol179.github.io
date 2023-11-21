@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.febea502.css",
+    "main.js": "/static/js/main.ba1bad4c.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/greenparadise.png": "/static/media/greenparadise.81e78b8631efa3cbb5d6.png",
+    "static/media/FootLocker.png": "/static/media/FootLocker.27804ffcf772e8555470.png",
+    "static/media/haanready.png": "/static/media/haanready.875037e09155d7907093.png",
+    "static/media/AnmolJain-Full-Stack-Web-Developer.pdf": "/static/media/AnmolJain-Full-Stack-Web-Developer.7f0773afa2b8b46b8547.pdf",
+    "static/media/netmeds.png": "/static/media/netmeds.7f580f932d84fc8e544e.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.2549168122a3128d6926.jpg",
+    "static/media/myimage.jpeg": "/static/media/myimage.05da12ca3d9dfb8b18e6.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.febea502.css.map": "/static/css/main.febea502.css.map",
+    "main.ba1bad4c.js.map": "/static/js/main.ba1bad4c.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febea502.css",
+    "static/js/main.ba1bad4c.js"
+  ]
+}
