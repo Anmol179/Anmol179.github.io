@@ -101,7 +101,7 @@ const Skills = () => {
           <Box className="skills-card" backgroundColor="white">
             <img
               className="skills-card-img"
-              src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"
+              src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"
               alt=""
             />
             <Text className="skills-card-name" fontSize="25px" textAlign="center" color="black">
