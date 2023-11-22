@@ -46,11 +46,11 @@ const Projects = () => {
       <Text className="project-description" py='2'>
           • Implemented product catalog management and search/filter functionality
       </Text>
-      <Text className="project-tech-stack" py='2'>
-          You can Visit Below Link for more...
-      </Text>
       <Text className="project-description" py='2'>
           <b>HTML CSS JAVASCRIPT JSON-SERVER API </b>
+      </Text>
+      <Text className="project-tech-stack" py='2'>
+          You can Visit Below Link for more...
       </Text>
     </CardBody>
 
