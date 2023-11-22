@@ -5,7 +5,7 @@ import { Center, Text } from "@chakra-ui/react";
 import Type from "./type";
 import { Button } from "@chakra-ui/react";
 
-const AnmolJainResume = require("../Components/AnmolJain-Full-Stack-Web-Developer.pdf");
+const AnmolJainResume = require("../Components/Anmol-Jain-Resume.pdf");
 
 const Home = () => {
   const onButtonClick = () => {
@@ -15,7 +15,7 @@ const Home = () => {
     // Trigger download
     const link = document.createElement("a");
     link.href = AnmolJainResume;
-    link.download = "AnmolJain-Full-Stack-Web-Developer.pdf";
+    link.download = "Anmol-Jain-Resume.pdf";
     link.click();
   };
 

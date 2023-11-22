@@ -15,8 +15,6 @@ const Projects = () => {
           Projects
         </Text>
       </Box>
-
-{/* Hilling */}
 <Card
   direction={{ base: 'column', sm: 'row' }}
   overflow='hidden'
@@ -51,15 +49,18 @@ const Projects = () => {
       <Text className="project-tech-stack" py='2'>
           You can Visit Below Link for more...
       </Text>
+      <Text className="project-description" py='2'>
+          <b>HTML CSS JAVASCRIPT JSON-SERVER API </b>
+      </Text>
     </CardBody>
 
     <CardFooter>
       <Button className="project-github-link" variant='solid' colorScheme='blue'>
-       <a href="https://github.com/Mahima29Jaiswal/Netmeds-projectMasai">Github</a>
+       <a href="https://github.com/Mahima29Jaiswal/Netmeds-projectMasai" target="_blank">Github</a>
       </Button>
       &nbsp;&nbsp;&nbsp;
       <Button className="project-deployed-link" variant='solid' colorScheme='blue'>
-       <a href="https://netmeds-project-masai-la00zngfj-mahima29jaiswal.vercel.app/">Deployed link</a>
+       <a href="https://netmeds-project-masai-la00zngfj-mahima29jaiswal.vercel.app/" target="_blank">Deployed link</a>
       </Button>
     </CardFooter>
   </Stack>
@@ -89,6 +90,9 @@ const Projects = () => {
         <Text className="project-description" py='2'>
         Green Paradise – your ultimate destination for plant lovers! Browse through our curated selection of exquisite indoor and outdoor plants, carefully chosen to bring nature's serenity to your space. With a user-friendly interface and hassle-free shopping, Green Paradise is your go-to source for elevating your surroundings with lush greenery. Transform your home into a haven of tranquility with our premium plant offerings, delivered straight to your door. Experience the joy of cultivating your own green oasis with Green Paradise!"
         </Text>
+        <Text className="project-description" py='2'>
+          <b>HTML CSS JAVASCRIPT JSON-SERVER API </b>
+      </Text>
         <Text className="project-tech-stack" py='2'>
         You can Visit Below Link for more...
         </Text>
@@ -96,10 +100,10 @@ const Projects = () => {
 
     <CardFooter>
     <Button className="project-github-link" variant='solid' colorScheme='blue' mr={2}>
-      <a href="https://github.com/saurabhWakde/-Plant_Order_Application">Github</a>
+      <a href="https://github.com/saurabhWakde/-Plant_Order_Application" target="_blank">Github</a>
       </Button>
       <Button className="project-deployed-link" variant='solid' colorScheme='blue'>
-        <a href="https://saurabhwakde.github.io/-Plant_Order_Application/">Deployed link</a>
+        <a href="https://saurabhwakde.github.io/-Plant_Order_Application/" target="_blank">Deployed link</a>
       </Button>
     </CardFooter>
   </Stack>
@@ -130,6 +134,9 @@ const Projects = () => {
       <Text className="project-description" py='2' textAlign={"left"}>
       Discover the complete hygiene experience at HaanReady.com, your premier destination for sanitizers, soaps, and cosmetics. Our curated collection ensures a comprehensive approach to personal care. Easily navigate through our user-friendly platform to explore a variety of high-quality sanitizers, nourishing soaps, and premium cosmetics. HaanReady.com simplifies your shopping experience with secure transactions. Elevate your self-care routine with our functional and effective products, designed to promote health, cleanliness, and beauty effortlessly.
       </Text>
+      <Text className="project-description" py='2'>
+          <b>REACT REDUX CHAKRA-UI JAVASCRIPT JSON-SERVER API </b>
+      </Text>
       <Text className="project-tech-stack" py='2'>
         You can Visit Below Link for more...
       </Text>
@@ -137,10 +144,10 @@ const Projects = () => {
 
     <CardFooter>
       <Button className="project-github-link" variant='solid' colorScheme='blue' mr={2}>
-        <a href="https://github.com/Anmol179/HaanReady.com" >Github</a>
+        <a href="https://github.com/Anmol179/HaanReady.com" target="_blank">Github</a>
       </Button>
       <Button className="project-deployed-link" variant='solid' colorScheme='blue'>
-        <a href="https://64a9a5527ed34f26cd2eb097--gregarious-bavarois-72a7cc.netlify.app/">Deployed link</a>
+        <a href="https://64a9a5527ed34f26cd2eb097--gregarious-bavarois-72a7cc.netlify.app/" target="_blank">Deployed link</a>
       </Button>
     </CardFooter>
   </Stack>
@@ -177,6 +184,9 @@ const Projects = () => {
       <Text className="project-description" py='2'>
           • Implemented product catalog management and search/filter functionality
       </Text>
+      <Text className="project-description" py='2'>
+          <b>HTML CSS JAVASCRIPT JSON-SERVER API </b>
+      </Text>
       <Text className="project-tech-stack" py='2'>
           You can Visit Below Link for more...
       </Text>
@@ -184,11 +194,11 @@ const Projects = () => {
 
     <CardFooter>
       <Button className="project-github-link" variant='solid' colorScheme='blue'>
-       <a href="https://github.com/Mahima29Jaiswal/Netmeds-projectMasai">Github</a>
+       <a href="https://github.com/Mahima29Jaiswal/Netmeds-projectMasai" target="_blank">Github</a>
       </Button>
       &nbsp;&nbsp;&nbsp;
       <Button className="project-deployed-link" variant='solid' colorScheme='blue'>
-       <a href="https://netmeds-project-masai-la00zngfj-mahima29jaiswal.vercel.app/">Deployed link</a>
+       <a href="https://netmeds-project-masai-la00zngfj-mahima29jaiswal.vercel.app/" target="_blank">Deployed link</a>
       </Button>
     </CardFooter>
   </Stack>

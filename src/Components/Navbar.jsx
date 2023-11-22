@@ -23,8 +23,7 @@ import {
 // import Photo from "./Photo";
 import Name from "./Name";
 import "./Navbar.css";
-import AnmolJainResume from "./AnmolJain-Full-Stack-Web-Developer.pdf"
-
+import AnmolJainResume from "./Anmol-Jain-Resume.pdf"
 export default function Navbar() {
   const { colorMode, toggleColorMode } = useColorMode();
   const { isOpen, onOpen, onClose } = useDisclosure();
@@ -34,7 +33,7 @@ export default function Navbar() {
 
     const link = document.createElement("a");
     link.href = AnmolJainResume;
-    link.download = "AnmolJain-Full-Stack-Web-Developer.pdf";
+    link.download = "Anmol-Jain-Resume.pdf";
     link.click();
   };
 
